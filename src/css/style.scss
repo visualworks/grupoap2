@@ -1,0 +1,12 @@
+@import "node_modules/bulma/bulma";
+$fa-font-path: "~/fonts";
+@import "node_modules/font-awesome/scss/font-awesome";
+body {
+    background-color: #f1c10f;
+}
+.img-logo {
+    height: auto;
+    max-height: auto;
+    width: 432px;
+    max-width: 100%;
+}
